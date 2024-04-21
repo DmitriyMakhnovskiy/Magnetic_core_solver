@@ -4,3 +4,5 @@ of constant magnetic permeability throughout the entirety of the magnetizing fie
 
 This simplified approach serves as an excellent entry point for students, providing a foundational understanding of magnetic core behaviour without overwhelming complexities.
 Nonetheless, it's imperative to acknowledge the limitations inherent in this model. Specifically, the absence of hysteresis consideration and the assumption of linear permeability overlook real-world nuances. Introducing students to these simplified models while elucidating their constraints paves the way for a more comprehensive grasp of magnetic phenomena. Such an approach cultivates a solid foundation for future exploration into advanced studies or practical applications where accounting for hysteresis and nonlinearity becomes indispensable.
+
+Report: Magnetic cores.pdf
